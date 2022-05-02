@@ -1,4 +1,5 @@
 
+
 #intestazione {
     height: 150px;
     background-color: rgb(86, 111, 236);
@@ -6,7 +7,6 @@
     background-size: 40%;
     background-repeat: repeat;
     position: relative;
-    
 }
 
 #logo{
@@ -15,4 +15,37 @@
     position: absolute;
     bottom: 5px;
     left: 5px;
+}
+
+#titolo{
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 2px;
+}
+
+#write{
+    font-size: 20px;
+    color: rgb(122, 122, 122);
+    font-weight: bolder;
+}
+
+#data{
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+}
+
+.evidenziato{
+    background-color: darkorange;
+}
+
+ul{
+    padding-left: 0px;
 }
